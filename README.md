@@ -1,1 +1,1 @@
-<h1 class="notranslate">Habitta2</h1>
+<h1 class="notranslate">HABITTTA2</h1>
